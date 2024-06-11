@@ -1,17 +1,17 @@
 	.align 2
 gText_ConfirmSave::
-	.string "Would you like to save the game?$"
+	.string "Yea, you better save.$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
+	.string "You already have one.\n"
 	.string "Is it okay to overwrite it?$"
 
 gText_SavingDontTurnOff::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "Saving that shit...\n"
+	.string "Almost...$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "I got you {PLAYER}, all good.$"
 
 gText_DifferentSaveFile::
 	.string "WARNING!\p"
@@ -24,10 +24,10 @@ gText_DifferentSaveFile::
 	.string "and overwrite the other save file?$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "You fucked up.\p"
+	.string "Bad.\n"
+	.string "Replace backup memory.$"
 
 gText_SavingDontTurnOffPower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "Saving that shit...\n"
+	.string "Almost...$"
